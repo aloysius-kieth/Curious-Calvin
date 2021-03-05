@@ -29,4 +29,4 @@ All your game code lies inside the **/src/scripts** folder. All assets need to b
 
 ## Demo
 
-https://merck-test.netlify.app/ (just a preview)
+https://curious-calvin.netlify.app
