@@ -1,32 +1,19 @@
-## How To Use
+# Curious Calvin
+[Demo Link](https://curious-calvin.netlify.app)
 
-To clone and run this project, you'll need [Git](https://git-scm.com) and [Node.js](https://nodejs.org/en/download/) (which comes with [npm](http://npmjs.com)) installed on your computer. From your command line:
+## About
+A endless racing microsite game for Nutanix.
 
-```bash
-# Clone this repository
-$ git clone --depth 1 https://github.com/trinaxproject/project-2021-Merck-CatchAndWinGame.git {your-project-name}
+:desktop_computer:
+Tech Stack:
+* JavaScript
+* Phaser
+* HTML5
+* Webpack
 
-# Go into the repository
-$ cd {your-project-name}
-
-# Install dependencies
-$ npm install
-
-# Start the local development server (on port 8080)
-$ npm start
-
-# Ready for production?
-# Build the production ready code to the /dist folder
-$ npm run build
-
-# Play your production ready game in the browser
-$ npm run serve
-```
-
-Change the **gameName** in /webpack/webpack.common.js.
-
-All your game code lies inside the **/src/scripts** folder. All assets need to be inside the **/src/assets** folder in order to get copied to /dist while creating the production build. Do not change the name of the index.html and game.ts files.
-
-## Demo
-
-https://curious-calvin.netlify.app
+## Screenshots
+<p float="left">
+  <img src="https://user-images.githubusercontent.com/76507555/112202471-62ec7980-8c4c-11eb-8cff-6c76825cbf3a.png" width="300" />
+  <img src="https://user-images.githubusercontent.com/76507555/112202605-89121980-8c4c-11eb-9414-d75a2d643b13.png" width="300" />
+  <img src="https://user-images.githubusercontent.com/76507555/112202975-f9209f80-8c4c-11eb-89ca-b71af808ed1e.png" width="300" /> 
+</p>
